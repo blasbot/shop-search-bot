@@ -1,7 +1,7 @@
 # shop-bot v1.0
 
 ## About
-This project is a work in progress. Goal is to automate the checkout process on any Shopify powered site given a few keywords. 
+This project is a work in progress. The goal is to automate the checkout process on any Shopify powered site given a few keywords. 
 
 ### Usage
 Edit the fields under "USER SETTINGS" in the .py file. Keywords should be defined as a list, with each word seperated by a comma and placed within quotation marks. Some formatting is required for certain fields, as stated within the .py file.
