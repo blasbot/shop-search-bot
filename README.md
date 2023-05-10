@@ -1,4 +1,4 @@
-# shop-bot v1.0
+# shop-bot v1
 
 ## About
 This project is a work in progress. The goal is to automate the checkout process on any Shopify powered site given a few keywords. 
@@ -21,8 +21,7 @@ Edit the fields under "USER SETTINGS" in the .py file. Keywords should be define
 * Profiles for user info (billing and shipping)
 * Manual captcha completion and 2Captcha support (if captchas are required)
 * Get authentication token (doesn't appear to be required and is thus being left out for now)
-* Add support for sites like KITH and DSMNY which use a different link for
-products (i.e https://kith.com/collections/all/products.atom)
+* Add support for sites like KITH and DSMNY which use a different link for products (i.e https://kith.com/collections/all/products.atom)
 
 ### What other features are planned for a final version?
 * Rewrite in C# with a GUI (in progress)
