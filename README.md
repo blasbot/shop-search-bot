@@ -1,4 +1,4 @@
-# shop-bot v1
+# shop-search-bot v1
 
 ## About
 This project is a work in progress. The goal is to automate the checkout process on any Shopify powered site given a few keywords. 
